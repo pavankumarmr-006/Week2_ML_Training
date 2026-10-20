@@ -1,0 +1,5 @@
+Model,Validation score
+Logistic Regression,0.82
+XGBoost,0.78
+Decision Tree,0.76
+Random Forest,0.76
